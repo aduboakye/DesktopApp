@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(91,90): error C2039: 'panel1_Paint': is not a member of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(15,19): message : see declaration of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(91,90): error C2065: 'panel1_Paint': undeclared identifier
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(91,74): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::PaintEventHandler':
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(91,74): message : pointer to member function expected
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(114,74): error C2039: 'pictureBox1_Click': is not a member of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(15,19): message : see declaration of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(114,74): error C2065: 'pictureBox1_Click': undeclared identifier
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(114,58): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(114,58): message : pointer to member function expected
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(127,90): error C2039: 'panel2_Paint': is not a member of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(15,19): message : see declaration of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(127,90): error C2065: 'panel2_Paint': undeclared identifier
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(127,74): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::PaintEventHandler':
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(127,74): message : pointer to member function expected
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(184,60): error C2039: 'MyForm_Load': is not a member of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(15,19): message : see declaration of 'GoogleMap::MyForm'
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(184,60): error C2065: 'MyForm_Load': undeclared identifier
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(184,44): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.h(184,44): message : pointer to member function expected
+C:\Users\user\source\repos\GoogleMap\GoogleMap\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
